@@ -1,0 +1,14 @@
+@media (max-width: 46.1875em) {
+    .content__contact form {
+        width: 300px;
+    }
+    .content__images img {
+        width: 100%;
+    }
+    .content__review-member li {
+        min-width: 50%;
+    }
+    .header__menu-item, .header__menu-link {
+        display: none;
+    }
+}
